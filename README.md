@@ -96,4 +96,5 @@ In this project we have used the following technologies:
 ### Vikas Gupta
 - Github : https://github.com/Noddy952001
 
-#### Vinit <a href = "https://github.com/vinitkr567"><span> GitHub</span>  </a> 
+#### Vinit Kumar 
+- Github :  https://github.com/vinitkr567
